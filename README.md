@@ -1,7 +1,7 @@
 # Data mining assignment 
 
 ## Team 
-1. Baily Johannsmann
+1. Bailey Johannsmann
 2. Darcy Kemp
 3. Jess Grimes
 4. Keziah Furnell
