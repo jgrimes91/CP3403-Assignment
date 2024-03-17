@@ -151,5 +151,4 @@ for n_clusters in range_n_clusters:
         fontsize=14,
         fontweight="bold",
     )
-
 plt.show()
